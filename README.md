@@ -12,7 +12,7 @@ The approach we followed:
 - Data Preprocessing
 - Building Models
 - Choosing the best Model based on the appropriate evaluation metric for our problem statement
-- 
+
 The data we were given mostly contained weather Data The data provided was 
 structured and in a tabular format. Our first step was to understand each of the 
 features, exploring the permissible values each of these features can take, and 
